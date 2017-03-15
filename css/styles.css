@@ -1,0 +1,12 @@
+.pet {
+text-decoration: underline;
+font-style: italic;
+
+}
+
+.pet {
+  color: red;
+  text-decoration:line-through;
+
+
+}
